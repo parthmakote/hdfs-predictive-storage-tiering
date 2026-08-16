@@ -1,0 +1,6 @@
+__pycache__/
+*.log
+temp_data.txt
+batch_enforce.sh
+hadoop-3.3.6.tar.gz
+.DS_Store
