@@ -2,7 +2,7 @@ import re
 import pandas as pd
 from datetime import datetime
 
-LOG_FILE = "/home/parth/hadoop/logs/hdfs-audit.log"
+LOG_FILE = "/home/shreyash/hadoop/logs/hdfs-audit.log"
 
 file_stats = {}
 
